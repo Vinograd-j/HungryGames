@@ -1,0 +1,4 @@
+name: HungryGames
+version: '${project.version}'
+main: net.vinocraft.hungry.hungrygames.HungryGames
+authors: [ Vinograd ]
